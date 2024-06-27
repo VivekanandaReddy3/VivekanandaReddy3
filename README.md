@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **AdminPit**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **WebGL*
 
-- 💬 Ask me about **Java, Javascript, Python and React.**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **vivekanandareddygodala@gmail.com**
 
