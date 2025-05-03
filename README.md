@@ -68,10 +68,8 @@ I'm eager to bring energy, technical depth, and international perspective to any
 
 ### 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 vivekanandagodala@example.com  
-- 📁 [Portfolio Website (optional)](https://your-portfolio.com)  
-- 📊 [View My GitHub Projects](https://github.com/your-username)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vivekananda-reddy/))  
+- 📧 vivekanandareddygodala@gmail.com  
 
 ---
 
