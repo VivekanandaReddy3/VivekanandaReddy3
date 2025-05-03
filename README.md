@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Vivekananda Reddy Godala 👨‍💻</h1>
+<h1 align="center">Hey there! I'm Vivekananda Reddy 👨‍💻</h1>
 
 <p align="center">
   🌍 From <b>India</b>, based in <b>Germany</b> 🇮🇳 ➜ 🇩🇪<br>
