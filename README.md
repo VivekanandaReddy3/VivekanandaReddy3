@@ -68,7 +68,7 @@ I'm eager to bring energy, technical depth, and international perspective to any
 
 ### 📬 Let’s Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vivekananda-reddy/))  
+- 💼 [LinkedIn – Vivekananda Reddy](https://www.linkedin.com/in/vivekananda-reddy/) 
 - 📧 vivekanandareddygodala@gmail.com  
 
 ---
