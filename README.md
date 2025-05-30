@@ -6,16 +6,9 @@
   💻 Full Stack Developer | Data Enthusiast | Technical Leader
 </p>
 
----
-
-### 👨‍🎓 About Me
-
-I'm a 21-year-old passionate technologist with a strong academic foundation and a growing portfolio of technical and leadership experience. I recently moved to Germany to pursue my Master's after completing my B.Tech in Computer and Data Science with an **8.68/10 CGPA**.  
-
-During my undergrad, I led multiple projects and served as **President of the Technical Club**, where I organized **30+ events**, including **9 national-level competitions**.
-
-I’m currently looking for **Werkstudent / part-time opportunities** to gain real-world experience in **Web Development**, **Data Science**, or **Full-Stack Engineering**.
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekananda-reddy&show_icons=true&theme=radical" />
+</p>
 
 ---
 
@@ -38,38 +31,25 @@ I’m currently looking for **Werkstudent / part-time opportunities** to gain re
 
 ---
 
-### 🏆 Leadership & Recognition
-
-- 🏅 **President**, Technical Club @ Malla Reddy University  
-  Organized hackathons, tech quizzes, seminars & bootcamps — **highest turnout in university history**
-
-- 🌟 Recognized by **HOD (now Dean)** for university-wide technical contributions
-
-- 📜 **Certified**:  
-  - AWS Cloud Foundations  
-  - Data Analytics  
-  - ML – University of Washington (Coursera)  
-
-- 🏸 Former **National Cadet Corps (NCC)** & **Professional Badminton Player**  
-- 🗣️ Native-level English Proficiency (C1 – CEFR)
-
----
 
 ### 🎯 What I’m Looking For
 
-🔍 Werkstudent or internship roles in:
-- Web Development (Frontend/Full-Stack)
-- Data Engineering / BI
-- AI/ML Research Internships
+🔍 Currently open to:
+- Werkstudent or Internship roles in **Frontend**, **Full-Stack**, or **Data Engineering**
+- Research assistantships in **AI/ML** or **Web Technologies**
 
-I'm eager to bring energy, technical depth, and international perspective to any team I join.
+I’m eager to bring energy, technical depth, and an international perspective to forward-thinking teams.
 
 ---
 
 ### 📬 Let’s Connect
 
-- 💼 [LinkedIn – Vivekananda Reddy](https://www.linkedin.com/in/vivekananda-reddy/) 
+- 💼 [LinkedIn – Vivekananda Reddy](https://www.linkedin.com/in/vivekananda-reddy/)  
 - 📧 vivekanandareddygodala@gmail.com  
 
 ---
 
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br>
+  — Cory House
+</p>
